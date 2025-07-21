@@ -1,40 +1,38 @@
-🚀 Portfolio Website
+🌐 Personal Portfolio Website
 
-A modern personal portfolio built with Next.js, Tailwind CSS, and TypeScript. It showcases your projects, skills, resume, and a way for people to get in touch.
+Welcome to my personal portfolio, a sleek and modern website built using Next.js, Tailwind CSS, and TypeScript. This site highlights my skills, showcases my projects, and provides an easy way to connect with me.
 
-🚀 Deployment
+✨ Features
 
-🌟 Features :- 
+📱 Fully Responsive – Adapts beautifully to all screen sizes
 
-✅ Responsive Design – Looks great on all devices
+🌓 Dark Mode Support – Toggle between light and dark themes
 
-🌙 Dark Mode – Toggle light and dark themes
+♻️ Reusable Components – Clean and scalable code structure
 
-🧩 Component-Based Architecture – Reusable and modular React components
+🛠 Tech Stack
 
-🛠️ Tech Stack :- 
+⚡ Next.js
 
-Next.js
+⚛️ React
 
-React
+🧠 TypeScript
 
-TypeScript
+🎨 Tailwind CSS
 
-Tailwind CSS
+🌗 next-themes – For theme switching
 
-next-themes – Theme management
-
-React Icons – Icon set
+🖼️ React Icons – Icon collection
 
 ⚙️ Getting Started
 
-✅ Prerequisites
+📌 Prerequisites
 
-Node.js (v20 or later)
+📦 Node.js (v20 or newer)
 
-npm (comes with Node.js)
+🧰 npm (comes with Node.js)
 
-📦 Installation
+🚀 Installation
 
 Clone the repository
 
@@ -49,15 +47,15 @@ Start the development server
 
 npm run dev
 
-Open your browser
-Go to http://localhost:3000
+Open in browser
+Visit http://localhost:3000 to view your site
 
 📁 Project Structure
 
 src/
 ├── app/
 │   ├── layout.tsx         # Main layout
-│   ├── page.tsx           # Homepage
+│   ├── page.tsx           # Home page
 │   └── resume/page.tsx    # Resume page
 │
 ├── components/
@@ -72,10 +70,14 @@ src/
 │   └── ThemeSwitcher.tsx
 │
 ├── styles/                # Global styles
-public/                    # Static assets (images, PDFs, etc.)
+public/                    # Static files like images and PDFs
 
+🚀 Deployment
+
+The recommended way to deploy this app is using Vercel. It supports auto-deploy from GitHub and offers fast, serverless hosting.
 
 📄 License
 
-This project is open-source and available under the MIT License.
+This project is licensed under the MIT License.
 
+Made with ❤️ by Sahil
