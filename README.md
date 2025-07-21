@@ -1,69 +1,81 @@
-# Portfolio
+🚀 Portfolio Website
 
-This is a personal portfolio website built with Next.js, Tailwind CSS, and TypeScript. It showcases my projects, skills, and provides a way to contact me.
+A modern personal portfolio built with Next.js, Tailwind CSS, and TypeScript. It showcases your projects, skills, resume, and a way for people to get in touch.
 
-## Features
+🚀 Deployment
 
-- **Responsive Design**: The website is fully responsive and works on all devices.
-- **Dark Mode**: Switch between light and dark themes.
-- **Component-Based**: Built with reusable React components.
+🌟 Features :- 
 
-## Technologies Used
+✅ Responsive Design – Looks great on all devices
 
-- [Next.js](https://nextjs.org/)
-- [React](https://reactjs.org/)
-- [TypeScript](https://www.typescriptlang.org/)
-- [Tailwind CSS](https://tailwindcss.com/)
-- [Next-Themes](https://github.com/pacocoursey/next-themes) for theme management
-- [React Icons](https://react-icons.github.io/react-icons/) for icons
+🌙 Dark Mode – Toggle light and dark themes
 
-## Getting Started
+🧩 Component-Based Architecture – Reusable and modular React components
 
-To get a local copy up and running, follow these simple steps.
+🛠️ Tech Stack :- 
 
-### Prerequisites
+Next.js
 
-- Node.js (v20 or later)
-- npm
+React
 
-### Installation
+TypeScript
 
-1. Clone the repo
-   ```sh
-   git clone https://github.com/your_username/your_repository.git
-   ```
-2. Install NPM packages
-   ```sh
-   npm install
-   ```
-3. Run the development server
-   ```sh
-   npm run dev
-   ```
+Tailwind CSS
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+next-themes – Theme management
 
-## Project Structure
+React Icons – Icon set
 
-The project has the following structure:
+⚙️ Getting Started
 
-- `src/app/`: Contains the main pages of the application.
-  - `layout.tsx`: The main layout of the application.
-  - `page.tsx`: The main page of the application.
-  - `resume/page.tsx`: The page for the resume.
-- `src/components/`: Contains the reusable React components.
-  - `About.tsx`: The about section.
-  - `Contact.tsx`: The contact section.
-  - `Footer.tsx`: The footer of the application.
-  - `Hero.tsx`: The hero section.
-  - `Navbar.tsx`: The navigation bar.
-  - `Projects.tsx`: The projects section.
-  - `Skills.tsx`: The skills section.
-  - `ThemeProvider.tsx`: The theme provider for dark/light mode.
-  - `ThemeSwitcher.tsx`: The component to switch the theme.
-- `src/styles/`: Contains the global styles.
-- `public/`: Contains the static assets.
+✅ Prerequisites
 
-## Deployment
+Node.js (v20 or later)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme).
+npm (comes with Node.js)
+
+📦 Installation
+
+Clone the repository
+
+git clone https://github.com/your_username/your_repository.git
+cd your_repository
+
+Install dependencies
+
+npm install
+
+Start the development server
+
+npm run dev
+
+Open your browser
+Go to http://localhost:3000
+
+📁 Project Structure
+
+src/
+├── app/
+│   ├── layout.tsx         # Main layout
+│   ├── page.tsx           # Homepage
+│   └── resume/page.tsx    # Resume page
+│
+├── components/
+│   ├── About.tsx
+│   ├── Contact.tsx
+│   ├── Footer.tsx
+│   ├── Hero.tsx
+│   ├── Navbar.tsx
+│   ├── Projects.tsx
+│   ├── Skills.tsx
+│   ├── ThemeProvider.tsx
+│   └── ThemeSwitcher.tsx
+│
+├── styles/                # Global styles
+public/                    # Static assets (images, PDFs, etc.)
+
+
+📄 License
+
+This project is open-source and available under the MIT License.
+

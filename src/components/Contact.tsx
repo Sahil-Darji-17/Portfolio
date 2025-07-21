@@ -11,8 +11,8 @@ const Contact = () => {
       <div className="container mx-auto">
         <h2 className="text-4xl font-bold font-poppins mb-4">Get In Touch</h2>
         <p className="text-lg font-mono leading-relaxed max-w-2xl mx-auto mb-8">
-          I'm currently open to new opportunities and collaborations. Whether you have a project in mind, a
-          question, or just want to say hi, my inbox is always open. I'll try my best to get back to you!
+          I&apos;m currently open to new opportunities and collaborations. Whether you have a project in mind, a
+          question, or just want to say hi, my inbox is always open. I&apos;ll try my best to get back to you!
         </p>
         <a
           href="mailto:Sahil_Darji_17@outlook.com"
