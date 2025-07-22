@@ -76,7 +76,7 @@ const Hero = () => {
         </div>
       </div>
       {/* Scroll indicator at the bottom center */}
-      <div className="absolute bottom-10 left-1/2 -translate-x-1/2 animate-bounce text-foreground z-30">
+      <div className="absolute bottom-24 left-1/2 -translate-x-1/2 animate-bounce text-foreground z-30">
         <svg
           width="32"
           height="32"
