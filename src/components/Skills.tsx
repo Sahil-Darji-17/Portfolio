@@ -15,6 +15,7 @@ import {
   SiMysql,
   SiPostman,
   SiFigma,
+  SiDocker,
 } from 'react-icons/si';
 
 /**
@@ -42,6 +43,7 @@ const tools = [
   { name: 'Postman', icon: <SiPostman className="text-4xl text-primary" /> },
   { name: 'Figma', icon: <SiFigma className="text-4xl text-figma" /> },
   { name: 'Linux', icon: <FaLinux className="text-4xl text-linux" /> },
+  { name: 'DevOps', icon: <SiDocker className="text-4xl text-blue-500" /> },
 ];
 
 const Skills = () => {

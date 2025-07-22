@@ -3,18 +3,17 @@ import { FaGithub, FaExternalLinkAlt } from 'react-icons/fa';
 
 const projects = [
   {
-    title: 'Project One',
-    description: 'A brief description of the first project, highlighting its main features and purpose.',
-    technologies: ['React', 'Next.js', 'Tailwind CSS'],
-    githubUrl: 'https://github.com/your-username/project-one',
-    liveUrl: 'https://project-one.vercel.app',
+    title: 'Media Automation with ARR stack',
+    description: 'Self-hosted media automation system using Docker and the ARR Stack (Radarr, Sonarr, Prowlarr, qBittorrent) on Ubuntu Server. This project reflects my strong interest in DevOps, automation, and infrastructure as code.',
+    technologies: ['Docker', 'Linux', 'Ubuntu', 'DevOps'],
+    githubUrl: 'https://github.com/Sahil-Darji-17/Media-Arr-Stack',
+    liveUrl: 'Unavailable',
   },
   {
-    title: 'Project Two',
-    description: 'A brief description of the second project, highlighting its main features and purpose.',
-    technologies: ['JavaScript', 'HTML', 'CSS'],
-    githubUrl: 'https://github.com/your-username/project-two',
-    liveUrl: 'https://project-two.vercel.app',
+    title: 'Business Website for Sahil Enterprise',
+    description: 'Designed and developed a responsive business website for Sahil Enterprise using Cursor AI and Next.js. I am passionate about integrating DevOps practices for seamless deployment and scalability.',
+    technologies: ['JavaScript', 'HTML', 'CSS', 'Next.js', 'Tailwind CSS', 'TypeScript', 'Cursor IDE', 'Vercel', 'DevOps'],
+    liveUrl: 'https://sahil-enterprise.vercel.app/',
   },
   {
     title: 'Project Three',
@@ -23,7 +22,18 @@ const projects = [
     githubUrl: 'https://github.com/your-username/project-three',
     liveUrl: 'https://project-three.vercel.app',
   },
+
+  {
+    title: 'Project four',
+    description: 'A brief description of the third project, highlighting its main features and purpose.',
+    technologies: ['React', 'Node.js', 'Express'],
+    githubUrl: 'https://github.com/your-username/project-three',
+    liveUrl: 'https://project-three.vercel.app',
+  },
 ];
+
+
+
 
 /**
  * Renders the Projects section of the portfolio.
