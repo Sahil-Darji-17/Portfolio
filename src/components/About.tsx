@@ -21,11 +21,7 @@ const About = () => {
         <div className="md:w-2/3 md:pl-10 text-center md:text-left">
           <h2 className="text-4xl font-bold font-poppins mb-4">About Me</h2>
           <p className="text-lg font-poppins leading-relaxed">
-            I am a passionate frontend developer and a recent Computer Science
-            graduate, actively seeking opportunities to contribute to innovative
-            web projects. My journey in tech is driven by a love for creating
-            beautiful and intuitive user experiences. I thrive on turning complex
-            problems into simple, elegant solutions.
+          I am a passionate developer and a recent Computer Engineering graduate, with a growing interest in DevOps. I enjoy building clean and responsive user interfaces, while also exploring tools and practices that improve deployment, automation, and development workflows. I'm always eager to learn, collaborate, and contribute to meaningful tech projects that solve real-world problems.
           </p>
         </div>
       </div>
